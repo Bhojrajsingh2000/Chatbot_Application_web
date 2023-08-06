@@ -4,8 +4,8 @@ function getBotResponse(input) {
         return "Good Morning &#128515; " ;
     } else if (input == "hi") {
         return "Hello Dear ! I am ChatBot";
-    } else if (input == "scissors") {
-        return "rock";
+    } else if (input == "Hi") {
+        return "Hello Dear ! I am ChatBot";
     }
 
     // Simple responses
